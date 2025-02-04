@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on N/A N//R...
 - 🤔 I’m looking for help with ..3
 - 💬 Ask me about ser
-- 📫 How to reach me: +50376019110 samuelsuiri@gmail.com  
+- 📫 How to reach me: [+503 7601 9110](tel:+50376019110) samuelsuiri@gmail.com  
 - 😄 Pronouns: Él
 - ⚡ Fun fact: No
