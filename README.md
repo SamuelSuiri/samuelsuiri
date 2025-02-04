@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning to live
+- 👯 I’m looking to collaborate on N/A N//R...
+- 🤔 I’m looking for help with ..3
+- 💬 Ask me about ser
+- 📫 How to reach me: +50376019110 samuelsuiri@gmail.com  
+- 😄 Pronouns: Él
+- ⚡ Fun fact: No
