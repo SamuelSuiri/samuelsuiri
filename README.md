@@ -63,3 +63,7 @@ src="https://img.shields.io/twitch/status/MundoSuiri?logo=twitchsx&style=for-the
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/mundosuiri"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@SamuelSuiri/30-nites-of-code)  
+  ![@SamuelSuiri #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SamuelSuiri)
