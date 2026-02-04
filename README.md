@@ -71,3 +71,47 @@ src="https://img.shields.io/twitch/status/MundoSuiri?logo=twitchsx&style=for-the
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@SamuelSuiri/30-nites-of-code)  
   ![@SamuelSuiri #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SamuelSuiri)
+
+---
+
+## 📱 Cómo Crear un Repositorio en la App de GitHub para Android
+
+### Pasos para crear un repositorio:
+
+1. **Abre la app de GitHub** en tu dispositivo Android
+2. **Toca tu foto de perfil** en la esquina superior derecha
+3. **Selecciona "Your repositories"** (Tus repositorios)
+4. **Toca el botón "+" o "New"** (Nuevo) en la parte superior derecha
+5. **Completa los detalles del repositorio:**
+   - **Repository name** (Nombre del repositorio): Elige un nombre único
+   - **Description** (Descripción): Opcional, pero recomendado
+   - **Public o Private**: Selecciona la visibilidad
+   - **Initialize with README**: Marca esta opción si quieres crear un README automáticamente
+   - **Add .gitignore**: Opcional, selecciona el tipo de proyecto
+   - **Choose a license**: Opcional, selecciona una licencia
+
+6. **Toca "Create repository"** (Crear repositorio)
+
+¡Listo! Tu repositorio ha sido creado exitosamente. 🎉
+
+---
+
+## 📱 How to Create a Repository in the GitHub App for Android
+
+### Steps to create a repository:
+
+1. **Open the GitHub app** on your Android device
+2. **Tap your profile picture** in the upper right corner
+3. **Select "Your repositories"**
+4. **Tap the "+" or "New" button** in the upper right
+5. **Fill in the repository details:**
+   - **Repository name**: Choose a unique name
+   - **Description**: Optional, but recommended
+   - **Public or Private**: Select the visibility
+   - **Initialize with README**: Check this option to create a README automatically
+   - **Add .gitignore**: Optional, select your project type
+   - **Choose a license**: Optional, select a license
+
+6. **Tap "Create repository"**
+
+Done! Your repository has been successfully created. 🎉
